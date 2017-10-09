@@ -1,0 +1,8 @@
+com\astar\annotation\service\VideoServiceImpl.class
+com\astar\annotation\config\Initializer.class
+com\astar\annotation\controller\HomeController.class
+com\astar\annotation\config\WebAppConfig.class
+com\astar\annotation\model\Videos.class
+com\astar\annotation\config\JpaConfiguration.class
+com\astar\annotation\repository\VideoRepository.class
+com\astar\annotation\service\VideoService.class
